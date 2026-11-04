@@ -1,0 +1,19 @@
+{
+  "name": "mai-samboss-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Marketing website for Mai Samboss Limited",
+  "scripts": {
+    "build:css": "tailwindcss -i ./src/styles.css -o ./assets/css/styles.css --minify",
+    "build:js": "esbuild ./src/main.js --bundle --minify --format=iife --target=es2018 --outfile=./assets/js/main.js",
+    "build": "npm run build:css && npm run build:js",
+    "dev:css": "tailwindcss -i ./src/styles.css -o ./assets/css/styles.css --watch",
+    "dev:js": "esbuild ./src/main.js --bundle --format=iife --outfile=./assets/js/main.js --watch",
+    "serve": "npx --yes serve@14.2.4 -l 3000 ."
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.2",
+    "lucide": "^0.460.0",
+    "tailwindcss": "^3.4.17"
+  }
+}
