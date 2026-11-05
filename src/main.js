@@ -10,10 +10,8 @@ import {
   Factory,
   FileCheck,
   Handshake,
-  Instagram,
   Landmark,
   Leaf,
-  Linkedin,
   Mail,
   MapPin,
   Menu,
@@ -29,7 +27,6 @@ import {
   Star,
   Store,
   Truck,
-  Twitter,
   Users,
   Warehouse,
   Wheat,
@@ -42,9 +39,9 @@ import {
 createIcons({
   icons: {
     ArrowRight, BadgeCheck, CircleCheck, ClipboardCheck, ClipboardList, Clock,
-    Facebook, Factory, FileCheck, Handshake, Instagram, Landmark, Leaf, Linkedin,
+    Facebook, Factory, FileCheck, Handshake, Landmark, Leaf,
     Mail, MapPin, Menu, MessageCircle, Phone, Quote, Receipt, Search, Send,
-    ShieldCheck, Ship, Sprout, Star, Store, Truck, Twitter, Users, Warehouse, Wheat, X,
+    ShieldCheck, Ship, Sprout, Star, Store, Truck, Users, Warehouse, Wheat, X,
   },
   attrs: { 'aria-hidden': 'true', 'stroke-width': 1.75 },
 });
