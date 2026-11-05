@@ -31,7 +31,7 @@ If you use a new Lucide icon, import it and add it to the `icons` object in `src
 ## Before launch checklist
 
 1. **Placeholders**: search the project for `[`. Every bracketed value is placeholder content:
-   stats, product specs, business hours, RC number and testimonials.
+   stats, product specs, business hours and testimonials.
 2. **Domain**: the canonical, Open Graph and JSON-LD URLs use `https://www.maisamboss.com.ng`
    (inferred from the company email). Update them in `index.html` if the site is hosted elsewhere.
 3. **Quote form**: submissions open WhatsApp with the request pre-filled for the visitor to send to `QUOTE_WHATSAPP_NUMBER`
@@ -48,6 +48,8 @@ If you use a new Lucide icon, import it and add it to the `icons` object in `src
 - WhatsApp (chat + quote requests): +234 701 984 9028
 - Facebook: https://www.facebook.com/share/19eC3annKr/
 - TikTok: https://www.tiktok.com/@mscertifiedexport
+- CAC RC No.: 788818
+- NEPC Exporter Reg. No.: 0045921
 - Address: Suite A107, Garki Mall, Opposite Garki International Market, Garki 2, Abuja
 
 ## Placeholder image credits
