@@ -43,7 +43,7 @@ If you use a new Lucide icon, import it and add it to the `icons` object in `src
 
 ## Company details in use
 
-- Email: info@maisamboss.com.ng
+- Email: maisambossnigldtsamboss@gmail.com
 - Phone: +234 814 298 3672, +234 806 977 2725
 - WhatsApp (chat + quote requests): +234 701 984 9028
 - Facebook: https://www.facebook.com/share/19eC3annKr/
